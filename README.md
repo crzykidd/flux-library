@@ -14,7 +14,7 @@ option location = timezone.location(name: "America/Los_Angeles")
 
 ### Some graph examples
 First we have total Wh by day.   This grabs the measurements and then sums them by 1 day based on your timezone.
-![text](main_Wh_by_day.png){ width=60%,height:60% }
+![text](main_Wh_by_day.png)
 
  ```
  // Setup your timezone info so that the day resets for you correctly.
