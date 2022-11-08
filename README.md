@@ -33,3 +33,6 @@ from(bucket: "iotawatt_new")
   |> map(fn: (r) => ({_value: r._value, _time: r._time, _field: "Main Wh"}))
   |> yield(name: "mean")
 ```
+
+
+More to come....
