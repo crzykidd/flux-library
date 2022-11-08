@@ -11,4 +11,3 @@ First getting the data to display by your timezone is easy with this little snip
 import "timezone" 
 option location = timezone.location(name: "America/Los_Angeles")
 ```
-
