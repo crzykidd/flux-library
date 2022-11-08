@@ -1,6 +1,6 @@
 # flux-library
   
-I am working on some energy graphs using data from iotawatt pushed into Influxdb2, and displayed with Grafana.   This is a short library of flux snipits etc that I found helpful.
+I am working on some energy graphs using data from iotawatt pushed into Influxdb2, and displayed with Grafana.   This is a short library of flux snippets etc that I found helpful.
 
 ## Easy wins
 ### Dealing with Timezomes
